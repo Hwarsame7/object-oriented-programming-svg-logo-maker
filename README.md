@@ -16,7 +16,9 @@
 This application enables users to enter inputs into an inquirer prompt in order to generate a logo within a "logo.svg" file. It will create the image based on the users input and desired choices for their logo. 
 
 ## Visuals
+<img width="1440" alt="Screenshot 2024-02-28 at 21 38 28" src="https://github.com/Hwarsame7/object-oriented-programming-svg-logo-maker/assets/146027409/b734f04d-9c18-426b-aab3-13a959651c7c">
 
+<img width="1440" alt="Screenshot 2024-02-28 at 21 38 19" src="https://github.com/Hwarsame7/object-oriented-programming-svg-logo-maker/assets/146027409/ec9e9cfc-d43c-42ca-abfb-cfa520c9ba7e">
 
 Walkthrough Video: https://drive.google.com/file/d/1LK7925kRlp0WW7Zj_wqbsWq32LmH7Si3/view
 
