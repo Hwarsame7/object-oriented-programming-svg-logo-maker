@@ -16,13 +16,9 @@
 This application enables users to enter inputs into an inquirer prompt in order to generate a logo within a "logo.svg" file. It will create the image based on the users input and desired choices for their logo. 
 
 ## Visuals
-![Screenshot of application functioning](<Screenshot 2023-12-04 at 23.03.51.png>)
 
-![Screenshot of Generated Logo](<Screenshot 2023-12-04 at 22.10.32.png>)
 
-![Screenshot of Testing](<Screenshot 2023-12-04 at 23.22.30.png>)
-
-Walkthrough Video: 
+Walkthrough Video: https://drive.google.com/file/d/1LK7925kRlp0WW7Zj_wqbsWq32LmH7Si3/view
 
 ## Technologies Used
 
